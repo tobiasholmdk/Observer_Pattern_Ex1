@@ -1,0 +1,11 @@
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter.deps.json
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter.runtimeconfig.json
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter.runtimeconfig.dev.json
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter.dll
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/bin/Debug/netcoreapp3.1/ObserverPatter.pdb
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/obj/Debug/netcoreapp3.1/ObserverPatter.csprojAssemblyReference.cache
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/obj/Debug/netcoreapp3.1/ObserverPatter.AssemblyInfoInputs.cache
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/obj/Debug/netcoreapp3.1/ObserverPatter.AssemblyInfo.cs
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/obj/Debug/netcoreapp3.1/ObserverPatter.dll
+/Users/holm/Documents/untitled folder 2/ObserverPatter/ObserverPatter/obj/Debug/netcoreapp3.1/ObserverPatter.pdb

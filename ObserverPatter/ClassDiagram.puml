@@ -1,0 +1,29 @@
+@startuml
+
+skinparam classAttributeIconSize 0
+
+abstract class Subject{
++ Attach(Observer)
++ Detach(Observer)
++ Notify()
+}
+
+interface IObserver{
++ Update()
+}
+
+
+Subject <|-- BigTelephone
+
+IObserver <.. Teletubbies
+Teletubbies --> BigTelephone
+
+class BigTelephone {
++ Dinnertime()
+}
+
+class Teletubbies {
++ Update()
+}
+
+@enduml
